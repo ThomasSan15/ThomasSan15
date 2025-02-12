@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brahian</h1>
+<h1 align="center">Hi , I'm Thomas </h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning *C and C++*
+- 🌱 I’m currently learning *C++, Prolog and Rust*
 
 - 📫 How to reach me *brahian.castro@utp.edu.co*
 

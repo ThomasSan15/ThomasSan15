@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning *C++, Prolog and Rust*
 
-- 📫 How to reach me *thomas.beltran@utp.edu.co*
+- 🔎 How to reach me *thomas.beltran@utp.edu.co*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

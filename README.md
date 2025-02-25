@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Thomas </h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A student passionate about cybersecurity</h3>
 
 - 🌱 I’m currently learning *C++, Prolog and Rust*
 
-- 📫 How to reach me *brahian.castro@utp.edu.co*
+- 📫 How to reach me *thomas.beltran@utp.edu.co*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

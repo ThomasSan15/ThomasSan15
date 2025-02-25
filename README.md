@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Thomas </h1>
 <h3 align="center">A student passionate about cybersecurity</h3>
 
-- 🌱 I’m currently learning *C++, Prolog and Rust*
+- 📚 I’m currently learning *C++, Prolog and Rust*
 
 - 📫 How to reach me *thomas.beltran@utp.edu.co*
 

@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Thomas! 👋</h1>
+<h1 align="center"> Hi, I'm Thomas Santiago! 👋</h1>
 <h3 align="center">A student passionate about cybersecurity 🔐</h3>
 
 ---

@@ -1,35 +1,47 @@
-<h1 align="center">Hi, I'm Thomas</h1>
-<h3 align="center">A student passionate about cybersecurity</h3>
+<h1 align="center">🚀 Hi, I'm Thomas! 👋</h1>
+<h3 align="center">A student passionate about cybersecurity 🔐</h3>
 
-- 📚 I’m currently learning *C++, Prolog, and Rust*
+---
 
-- 🔎 How to reach me *thomas.beltran@utp.edu.co*
+### 🛠 About Me:
+- 📚 I’m currently learning **C++, Prolog, and Rust**
+- 💡 I enjoy working on **backend development** and solving problems that require **logical solutions**
+- 🚀 Always looking to **learn new things every day**
+- 🔎 How to reach me: **thomas.beltran@utp.edu.co**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📲 Connect with Me:
 <p align="left">
-  <a href="https://www.instagram.com/thomas_sant15?igsh=MW1nbnZqNmd2NmcydQ==" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  <a href="https://www.instagram.com/thomas_sant15?igsh=MW1nbnZqNmd2NmcydQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### ⚙️ Languages and Tools:
 <p align="left"> 
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
-  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SWI_Prolog_logo.svg" alt="Prolog" width="40" height="40"/>
+  <a href="https://www.swi-prolog.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
 </p>
+
+---
+
+🔥 *“Code, Learn, Repeat.”* 🚀

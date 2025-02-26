@@ -5,7 +5,7 @@
 
 ### 🛠 About Me:
 - 📚 I’m currently learning **C++, Prolog, and Rust**
-- 💡 I enjoy working on **backend development** and solving problems that require **logical solutions**
+- 💡 I enjoy working on **backend development**
 - 🚀 Always looking to **learn new things every day**
 - 🔎 How to reach me: **thomas.beltran@utp.edu.co**
 
@@ -44,4 +44,4 @@
 
 ---
 
-🔥 *“Code, Learn, Repeat.”* 🚀
+🔥 *“Prove them wrong”* 🌹

@@ -45,5 +45,5 @@
 
 ---
 
-*“why do we fall?”*
-*“So we can learn to pick ourselves up”* 🦇
+*why do we fall?*
+*So we can learn to pick ourselves up* 🦇

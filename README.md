@@ -45,4 +45,5 @@
 
 ---
 
-🔥 *“Prove them wrong”* 🌹
+*“Prove them wrong”*
+*“So we can learn to pick ourselves up”* 🦇

@@ -4,7 +4,7 @@
 ---
 
 ### 🛠 About Me:
-- 📚 I’m currently learning **C++, Prolog, and Rust**
+- 📚 I’m currently learning **C++ and Rust**
 - 💡 I enjoy working on **backend development**
 - 🚀 Always looking to **learn new things every day**
 - 🏋️‍♂️ I love **going to the gym** and **combat sports**

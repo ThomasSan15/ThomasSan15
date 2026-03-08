@@ -1,46 +1,94 @@
-<h1 align="center"> Hi, I'm Thomas Santiago! 👋</h1>
-<h3 align="center">A student passionate about cybersecurity 🔐</h3>
+<h1 align="center">Hi, I'm Thomas Santiago! 👋</h1>
+<h3 align="center">Competitive Programmer | Backend & Cybersecurity Enthusiast 🔐</h3>
 
 ---
 
-### 🛠 About Me:
-- 📚 I’m currently learning **C++ and Rust**
-- 💡 I enjoy working on **backend development**
-- 🚀 Always looking to **learn new things every day**
-- 🏋️‍♂️ I love **going to the gym** and **combat sports**
-- 🔎 How to reach me: **thomas.beltran@utp.edu.co**
+### 🧠 About Me
+
+- 🎓 Computer science student
+- 💻 Passionate about **Competitive Programming**
+- ⚙️ Interested in **Backend Development**
+- 🔐 Exploring **Cybersecurity**
+- 📚 Currently learning **C++ and Rust**
+- 🚀 Always improving my **problem solving skills**
+- 🏋️‍♂️ I enjoy **going to the gym** and **combat sports**
 
 ---
 
-### 📲 Connect with Me:
+### 🏆 Competitive Programming
+
 <p align="left">
-  <a href="mailto:thomas.beltran@utp.edu.co">
-  <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+<a href="https://codeforces.com/profile/ThomasBA">
+<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</p>
+
+- 🧩 Algorithms & Data Structures
+- ⚡ Time complexity optimization
+- 🏁 Preparing for programming contests
+
+---
+
+### 📫 Contact
+
+<p align="left">
+<a href="mailto:thomas.beltran@utp.edu.co">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-### ⚙️ Languages and Tools:
-<p align="left"> 
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
+### ⚙️ Languages and Tools
+
+<p align="left">
+
+<a href="https://isocpp.org/">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</a>
+
+<a href="https://www.rust-lang.org/">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</a>
+
+<a href="https://www.open-std.org/jtc1/sc22/wg14/">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-*why do we fall?*
-*So we can learn to pick ourselves up* 🦇
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### ⚡ Current Focus
+
+- 🧠 Competitive Programming
+- ⚙️ Backend Systems
+- 🔐 Cybersecurity
+- 🐧 Linux & Low-level programming
+
+---
+
+*Why do we fall?*  
+*So we can learn to pick ourselves up.* 🦇

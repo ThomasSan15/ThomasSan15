@@ -3,15 +3,15 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎓 Computer science student
-- 💻 Passionate about **Competitive Programming**
-- ⚙️ Interested in **Backend Development**
-- 🔐 Exploring **Cybersecurity**
-- 📚 Currently learning **C++ and Rust**
-- 🚀 Always improving my **problem solving skills**
-- 🏋️‍♂️ I enjoy **going to the gym** and **combat sports**
+-  Computer science student
+-  Passionate about **Competitive Programming**
+-  Interested in **Backend Development**
+-  Exploring **Cybersecurity**
+-  Currently learning **C++ and Rust**
+-  Always improving my **problem solving skills**
+-  I enjoy **going to the gym** and **combat sports**
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 📫 Contact
+###  Contact
 
 <p align="left">
 <a href="mailto:thomas.beltran@utp.edu.co">
@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 
@@ -81,12 +81,12 @@
 
 ---
 
-### ⚡ Current Focus
+###  Current Focus
 
-- 🧠 Competitive Programming
-- ⚙️ Backend Systems
-- 🔐 Cybersecurity
-- 🐧 Linux & Low-level programming
+- Competitive Programming
+-  Backend Systems
+-  Cybersecurity
+-  Linux & Low-level programming
 
 ---
 

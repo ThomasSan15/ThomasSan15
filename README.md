@@ -17,7 +17,7 @@
 
 ### 🏆 Competitive Programming
 
-<p align="left">
+<p align="center">
 
 <a href="https://codeforces.com/profile/ThomasBA">
 <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>

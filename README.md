@@ -14,9 +14,9 @@
 
 ### 📲 Connect with Me:
 <p align="left">
-  <a href="https://www.instagram.com/thomas_sant15?igsh=MW1nbnZqNmd2NmcydQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="mailto:thomas.beltran@utp.edu.co">
+  <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 
 ---
@@ -31,9 +31,6 @@
   </a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.swi-prolog.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>

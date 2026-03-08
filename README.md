@@ -33,7 +33,7 @@
 
 ###  Contact
 
-<p align="left">
+<p align="center">
 <a href="mailto:thomas.beltran@utp.edu.co">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -43,7 +43,7 @@
 
 ### ⚙️ Languages and Tools
 
-<p align="left">
+<p align="center">
 
 <a href="https://isocpp.org/">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -73,9 +73,9 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasSan15&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight"/>
 
 </p>
 

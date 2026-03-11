@@ -27,9 +27,9 @@
 
 I enjoy solving algorithmic problems and improving my problem-solving skills.
 
-- 🧩 Algorithms & Data Structures
-- ⚡ Time complexity optimization
-- 🏁 Programming contests preparation
+- Algorithms & Data Structures
+-  Time complexity optimization
+-  Programming contests preparation
 
 ---
 

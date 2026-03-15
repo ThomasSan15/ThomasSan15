@@ -89,7 +89,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ThomasSan15&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThomasSan15&theme=youtube-dark&hide_border=true&border_radius=4.7&card_width=498)](https://git.io/streak-stats)
 
 </p>
 

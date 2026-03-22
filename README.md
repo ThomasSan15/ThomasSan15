@@ -76,8 +76,8 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 ###  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasSan15&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff&title_color=ff0000&text_color=333333&icon_color=ff0000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=radical&hide_border=true&bg_color=ffffff&title_color=ff0000&text_color=333333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasSan15&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff"/>
 </p>
 
 ### GitHub Streak

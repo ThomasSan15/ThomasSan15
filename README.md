@@ -76,7 +76,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 ###  GitHub Stats
 
 <p align="center">
-  <img src="./generated/stats.svg" width="500" />
+  <img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/master/generated/stats.svg" width="500" />
 </p>
 
 ### GitHub Streak

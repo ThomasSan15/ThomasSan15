@@ -37,7 +37,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 
 <p align="center">
 
-<a href="mailto:thomas.beltran@utp.edu.co">
+<a href="mailto:thomas.santiago.beltran15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

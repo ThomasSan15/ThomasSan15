@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Thomas Santiago! </h1>
-<h3 align="center">Competitive Programmer | Backend & Cybersecurity Enthusiast 🔐</h3>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&color=FFFFFF&center=true&vCenter=true&width=600&duration=3000&pause=800&lines=Competitive+Programmer;Backend+Developer;Cybersecurity+Enthusiast" />
 
 ---
 
@@ -89,13 +93,18 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasSan15&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasSan15&theme=github_dark" />
 </p>
-### GitHub Streak
+
+---
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=Github+Streak" />
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ThomasSan15&theme=youtube-dark&hide_border=true&border_radius=4.7&card_width=498" />
+    <img src="https://streak-stats.demolab.com?user=ThomasSan15&theme=youtube-dark&hide_border=true&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&border_radius=4.7&card_width=498" />
   </a>
 </p>
 

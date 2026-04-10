@@ -19,16 +19,18 @@
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/ThomasBA">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>
-</a>
+  <a href="https://codeforces.com/profile/ThomasBA">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces" />
+  </a>
 
-<a href="https://cses.fi/user/416103">
-<img src="https://img.shields.io/badge/CSES-Online%20Judge-blue?style=for-the-badge"/>
-</a>
+  <a href="https://cses.fi/user/416103">
+    <img src="https://img.shields.io/badge/CSES-Online%20Judge-blue" />
+  </a>
 
- <img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" />
- 
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" width="300"/>
 </p>
 
 I enjoy solving algorithmic problems and improving my problem-solving skills.
@@ -36,7 +38,6 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 - Algorithms & Data Structures  
 - Time complexity optimization  
 - Programming contests preparation
-
 ---
 
 ###  Contact

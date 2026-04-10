@@ -2,26 +2,28 @@ name: Update CSES Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Corre cada 6 horas
+    - cron: "0 */6 * * *"   # Cada 6 horas
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Get CSES solved count
+      - name: Fetch solved problems from CSES
         id: cses
         run: |
-          solved=$(curl -s https://cses.fi/api/user/416103 | jq '.solved')
+          page=$(curl -s https://cses.fi/user/416103)
+          solved=$(echo "$page" | grep -oP 'Solved:</span>\s*\K[0-9]+')
           mkdir -p generated
-          echo "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='50'>
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='250' height='50'>
           <text x='10' y='30' font-size='24'>CSES Solved: $solved</text>
           </svg>" > generated/cses_solved.svg
 
-      - name: Commit changes
+      - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update CSES solved count"

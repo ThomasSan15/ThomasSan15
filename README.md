@@ -83,7 +83,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117&v=2" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ### GitHub Streak

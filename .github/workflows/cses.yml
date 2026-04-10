@@ -16,7 +16,7 @@ jobs:
       - name: Fetch solved problems from CSES
         id: cses
         run: |
-          page=$(curl -s https://cses.fi/user/416103)
+          page=$(curl -s -A "Mozilla/5.0" https://cses.fi/user/416103)
           solved=$(echo "$page" | grep -oP 'Solved:</span>\s*\K[0-9]+')
           mkdir -p generated
           echo "<svg xmlns='http://www.w3.org/2000/svg' width='250' height='50'>

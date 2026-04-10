@@ -23,13 +23,17 @@
 <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
+<a href="https://cses.fi/user/416103">
+<img src="https://img.shields.io/badge/CSES-Online%20Judge-blue?style=for-the-badge"/>
+</a>
+
 </p>
 
 I enjoy solving algorithmic problems and improving my problem-solving skills.
 
-- Algorithms & Data Structures
--  Time complexity optimization
--  Programming contests preparation
+- Algorithms & Data Structures  
+- Time complexity optimization  
+- Programming contests preparation
 
 ---
 

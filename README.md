@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/CSES-Online%20Judge-blue?style=for-the-badge"/>
 </a>
 
+ <img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" />
+ 
 </p>
 
 I enjoy solving algorithmic problems and improving my problem-solving skills.

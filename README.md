@@ -84,7 +84,9 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 
 ---
 
-###  GitHub Stats
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=Github+Stats" />
+</p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThomasSan15&show_icons=true&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117"/>
@@ -110,7 +112,10 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 
 ---
 
-### ⚡ Current Focus
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=⚡+Current+Focus" />
+</p>
+
 
 -  Competitive Programming
 -  Backend Systems

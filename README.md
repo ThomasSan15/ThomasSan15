@@ -123,3 +123,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 -  Linux & Low-level programming
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.&author=Aristotle&quoteColor=d1d5db&authorColor=ffffff&backgroundColor=0d1117&symbolColor=ffffff" />
+</p>
+

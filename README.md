@@ -7,7 +7,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&size=23&letterSpacing=0.2rem&duration=2500&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=476&lines=About+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&size=23&letterSpacing=0.2rem&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=476&lines=About+Me)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2500&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Computer+science+student+from+Colombia)](https://git.io/typing-svg)
 

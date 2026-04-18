@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2500&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Computer+science+student+from+Colombia)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2550&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Passionate+about++Competitive+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Passionate+about++Competitive+Programming)](https://git.io/typing-svg)
 -  Interested in **Backend Development**
 -  Exploring the world of **Cybersecurity**
 -  Currently learning **C++ and Rust**

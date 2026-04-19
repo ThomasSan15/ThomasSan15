@@ -7,14 +7,18 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&size=23&letterSpacing=0.2rem&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=476&lines=About+Me)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&size=23&letterSpacing=0.2rem&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=476&lines=About+Me)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2500&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Computer+science+student+from+Colombia)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2500&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Computer+science+student+from+Colombia)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Passionate+about++Competitive+Programming)](https://git.io/typing-svg)
--  Interested in **Backend Development**
--  Exploring the world of **Cybersecurity**
--  Currently learning **C++ and Rust**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Passionate+about++Competitive+Programming)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3200&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Interested+in++Backend+Development)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Currently+learning+C%2B%2B+and+Rust)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Always+improving+my++problem+solving+skills)
+
 -  Always improving my **problem solving skills**
 -  I enjoy **going to the gym** and **combat sports**
 

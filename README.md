@@ -23,7 +23,7 @@
 
 ---
 
-### 🏆 Competitive Programming
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=23&letterSpacing=0.2rem&duration=4000&pause=1000&color=F2F2F2&background=F243FF00&center=false&repeat=false&width=471&lines=Competitive+Programming++%F0%9F%8F%86+)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -41,11 +41,14 @@
   <img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" width="300"/>
 </p>
 
-I enjoy solving algorithmic problems and improving my problem-solving skills.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3000&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=I+enjoy+solving+problems+and+improving+my+problem-solving+skills.)
 
-- Algorithms & Data Structures  
-- Time complexity optimization  
-- Programming contests preparation
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3300&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Algorithms+and++Data+Structures)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Time+complexity+optimization)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Programming+contest+preparation)
+
 ---
 
 ###  Contact

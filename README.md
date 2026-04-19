@@ -17,10 +17,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Currently+learning+C%2B%2B+and+Rust)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Always+improving+my++problem+solving+skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Always+improving+my++problem+solving+skills)
 
--  Always improving my **problem solving skills**
--  I enjoy **going to the gym** and **combat sports**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+I+enjoy++going+to+the+gym+and+combat+sports)
 
 ---
 

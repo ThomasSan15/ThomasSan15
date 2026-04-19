@@ -43,11 +43,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3000&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=I+enjoy+solving+problems+and+improving+my+problem-solving+skills.)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3300&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Algorithms+and++Data+Structures)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=15&duration=3300&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Algorithms+and++Data+Structures)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Time+complexity+optimization)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=15&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Time+complexity+optimization)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Programming+contest+preparation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=15&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Programming+contest+preparation)
 
 ---
 

@@ -104,47 +104,97 @@ def fetch_user_stats(session: requests.Session, user_id: str) -> dict:
     return stats
 
 
-def fetch_solved_problems(session: requests.Session, user_id: str) -> dict:
-    solved = {cat: 0 for cat in CATEGORIES}
+def fetch_solved_problems(user_id: str) -> dict:
+    """
+    Fetch solved problems and map them to categories using task IDs.
+    """
+
     url = f"https://cses.fi/problemset/user/{user_id}/"
 
+    solved = {cat: 0 for cat in CATEGORIES}
+
+    # Task ID -> Category
+    TASK_CATEGORY = {
+        # Introductory
+        1068: "Introductory Problems",
+        1083: "Introductory Problems",
+        1069: "Introductory Problems",
+        1094: "Introductory Problems",
+        1070: "Introductory Problems",
+        1071: "Introductory Problems",
+        1072: "Introductory Problems",
+        1092: "Introductory Problems",
+        1617: "Introductory Problems",
+        1618: "Introductory Problems",
+        1754: "Introductory Problems",
+        2205: "Introductory Problems",
+        2165: "Introductory Problems",
+        2168: "Introductory Problems",
+        1755: "Introductory Problems",
+        2205: "Introductory Problems",
+        1097: "Dynamic Programming",
+
+        # Sorting and Searching
+        1621: "Sorting and Searching",
+        1084: "Sorting and Searching",
+        1090: "Sorting and Searching",
+        1085: "Sorting and Searching",
+
+        # Dynamic Programming
+        1633: "Dynamic Programming",
+        1634: "Dynamic Programming",
+        1635: "Dynamic Programming",
+
+        # Graph Algorithms
+        1192: "Graph Algorithms",
+        1193: "Graph Algorithms",
+        1666: "Graph Algorithms",
+
+        # Tree Algorithms
+        1130: "Tree Algorithms",
+
+        # Mathematics
+        1619: "Mathematics",
+
+        # String Algorithms
+        1731: "String Algorithms",
+    }
+
     try:
-        resp = session.get(url, timeout=15)
-        print(f"[debug] GET {url} → HTTP {resp.status_code}")
+        session = requests.Session()
+
+        session.cookies.set(
+            "PHPSESSID",
+            os.getenv("CSES_SESSION")
+        )
+
+        resp = session.get(url, headers=HEADERS, timeout=15)
 
         if resp.status_code != 200:
-            print(f"[warn] Status {resp.status_code}. Cookie expirada o inválida.")
+            print(f"[warn] status {resp.status_code}")
             return solved
 
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Verificar autenticación
-        logged_in = bool(soup.find("a", href="/logout"))
-        print(f"[debug] Autenticado en CSES: {logged_in}")
-        if not logged_in:
-            print("[warn] No autenticado. Verifica que CSES_SESSION sea válida y no haya expirado.")
-            return solved
+        solved_tasks = set()
 
-        # Contar problemas resueltos por categoría
-        # Los problemas resueltos tienen class="full" en su <a>
-        current_cat = None
-        for tag in soup.find_all(["h2", "a"]):
-            if tag.name == "h2":
-                text = tag.text.strip()
-                current_cat = None
-                for cat in CATEGORIES:
-                    if cat.lower() in text.lower():
-                        current_cat = cat
-                        break
-            elif tag.name == "a" and current_cat:
-                if "full" in tag.get("class", []):
-                    solved[current_cat] += 1
+        for a in soup.find_all("a", class_="full"):
+            href = a.get("href", "")
 
-        total = sum(solved.values())
-        print(f"[debug] Total resueltos encontrados: {total}")
+            if "/problemset/task/" in href:
+                try:
+                    task_id = int(href.split("/task/")[1].split("/")[0])
+                    solved_tasks.add(task_id)
+                except:
+                    pass
 
-    except Exception as exc:
-        print(f"[error] fetch_solved_problems: {exc}")
+        for task_id in solved_tasks:
+            if task_id in TASK_CATEGORY:
+                cat = TASK_CATEGORY[task_id]
+                solved[cat] += 1
+
+    except Exception as e:
+        print(f"[warn] Failed: {e}")
 
     return solved
 

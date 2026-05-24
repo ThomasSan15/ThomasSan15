@@ -349,7 +349,7 @@ def main():
     print(f"      username={stats['username']}  submissions={stats['submission_count']}  last={stats['last_submission']}")
 
     print("[2/3] Problemas resueltos por categoría...")
-    solved       = fetch_solved_problems(session, args.user)
+    solved = fetch_solved_problems(args.user)
     total_solved = sum(solved.values())
     print(f"      Total: {total_solved}/{TOTAL_PROBLEMS}")
     for cat, s in solved.items():

@@ -14,21 +14,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Computer+science+student+from+Colombia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Computer+science+student+from+Colombia)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Passionate+about+Competitive+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Passionate+about+Competitive+Programming)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3300&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Interested+in+Backend+Development+%26+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3300&pause=1000&color=777777&vCenter=true&repeat=false&width=500&height=22&lines=Interested+in+Backend+Development+%26+Cybersecurity)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Currently+leveling+up+in+C%2B%2B+and+Rust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3600&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Currently+leveling+up+in+C%2B%2B+and+Rust)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3800&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Always+sharpening+problem-solving+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3800&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Always+sharpening+problem-solving+skills)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Outside+the+screen%3A+gym+%2B+combat+sports)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Outside+the+screen%3A+gym+%2B+combat+sports)](https://git.io/typing-svg)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=340&lines=Competitive+Programming+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=450&lines=Competitive+Programming++++🏆)](https://git.io/typing-svg)
 
 <div align="center">
 

@@ -8,10 +8,10 @@
   
   <text x="16" y="64" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Introductory</text>
   <rect x="110" y="55" width="244" height="10" rx="5" fill="#21262d"/>
-  <rect x="110" y="55" width="0" height="10" rx="5" fill="#c9373c" opacity="0.9">
-    <animate attributeName="width" from="0" to="0" dur="1.00s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="110" y="55" width="25" height="10" rx="5" fill="#c9373c" opacity="0.9">
+    <animate attributeName="width" from="0" to="25" dur="1.00s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="362" y="64" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">0/19</text>
+  <text x="362" y="64" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">2/19</text>
   <text x="16" y="92" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Sorting</text>
   <rect x="110" y="83" width="244" height="10" rx="5" fill="#21262d"/>
   <rect x="110" y="83" width="0" height="10" rx="5" fill="#c9373c" opacity="0.9">

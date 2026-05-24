@@ -1,57 +1,43 @@
-<h1 align="center">Hi, I'm Thomas Santiago! </h1>
+<h1>Hi, I'm Thomas Santiago!</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=C9373C&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&color=FFFFFF&center=true&vCenter=true&width=600&duration=3000&pause=800&lines=Competitive+Programmer;Backend+Developer;Cybersecurity+Enthusiast" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Computer+science+student+from+Colombia)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Passionate+about+Competitive+Programming)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3300&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Interested+in+Backend+Development+%26+Cybersecurity)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Currently+leveling+up+in+C%2B%2B+and+Rust)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3800&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Always+sharpening+problem-solving+skills)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Outside+the+screen%3A+gym+%2B+combat+sports)](https://git.io/typing-svg)
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&size=23&letterSpacing=0.2rem&duration=2800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=476&lines=About+Me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=340&lines=Competitive+Programming+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=2500&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Computer+science+student+from+Colombia)
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3000&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Passionate+about++Competitive+Programming)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-C9373C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThomasBA)
+[![CSES](https://img.shields.io/badge/CSES-Online%20Judge-C9373C?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3300&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Interested+in++Backend+Development)
+<img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" width="300"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Currently+learning+C%2B%2B+and+Rust)
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Always+improving+my++problem+solving+skills)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=4000&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+I+enjoy++going+to+the+gym+and+combat+sports)
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=23&letterSpacing=0.2rem&duration=4000&pause=1000&color=F2F2F2&background=F243FF00&center=false&repeat=false&width=471&lines=Competitive+Programming++%F0%9F%8F%86+)](https://git.io/typing-svg)
-
-<p align="center">
-
-  <a href="https://codeforces.com/profile/ThomasBA">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces" />
-  </a>
-
-  <a href="https://cses.fi/user/416103">
-    <img src="https://img.shields.io/badge/CSES-Online%20Judge-blue" />
-  </a>
-
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" width="300"/>
-</p>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=18&duration=3000&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=I+enjoy+solving+problems+and+improving+my+problem-solving+skills.)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=15&duration=3300&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Algorithms+and++Data+Structures)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=15&duration=3600&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Time+complexity+optimization)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BJ+Cree&weight=500&size=15&duration=3800&pause=1000&color=F2F2F2&background=0FFFF400&vCenter=true&repeat=false&width=430&height=20&lines=-+Programming+contest+preparation)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=500&height=22&lines=Algorithms+%26+Data+Structures+%7C+Time+complexity+%7C+Contest+prep)](https://git.io/typing-svg)
 
 ---
 
-###  Languages and Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=260&lines=Languages+%26+Tools)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -65,66 +51,45 @@
 
 ---
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=Github+Stats" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=Github+Stats)](https://git.io/typing-svg)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThomasSan15&show_icons=true&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117"/>
-  
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook&v=2" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasSan15&theme=github_dark" />
-</p>
-
----
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=Github+Streak" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ThomasSan15&theme=youtube-dark&hide_border=true&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&border_radius=4.7&card_width=498" />
-  </a>
-</p>
-
----
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=⚡+Current+Focus" />
-</p>
 <div align="center">
 
-<table>
-<tr>
-<th>Area</th>
-<th>Details</th>
-</tr>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThomasSan15&show_icons=true&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117"/>
 
-<tr>
-<td> <b>Competitive Programming</b></td>
-<td>Codeforces, CSES, algorithm contests</td>
-</tr>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook&v=2"/>
 
-<tr>
-<td> <b>Backend Systems</b></td>
-<td>System design, APIs, performance</td>
-</tr>
-
-<tr>
-<td> <b>Low-level Programming</b></td>
-<td>C, C++, Rust, Linux</td>
-</tr>
-
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasSan15&theme=github_dark"/>
 
 </div>
 
 ---
-## Contact
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=Github+Streak)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThomasSan15&theme=youtube-dark&hide_border=true&fire=ff0000&currStreakLabel=ffffff&sideLabels=ffffff&border_radius=4.7&card_width=498)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=%E2%9A%A1+Current+Focus)](https://git.io/typing-svg)
+
+<div align="center">
+
+| Area | Details |
+|---|---|
+| 🧠 **Competitive Programming** | Codeforces, CSES, algorithm contests |
+| 🔧 **Backend Systems** | System design, APIs, performance |
+| ⚙️ **Low-level Programming** | C, C++, Rust, Linux |
+
+</div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=160&lines=Contact)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -133,7 +98,7 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.&author=Aristotle&quoteColor=d1d5db&authorColor=ffffff&backgroundColor=0d1117&symbolColor=ffffff" />
-</p>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=700&lines=%22We+are+what+we+repeatedly+do.+Excellence%2C+then%2C+is+not+an+act%2C+but+a+habit.%22+%E2%80%94+Aristotle)](https://git.io/typing-svg)

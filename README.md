@@ -43,7 +43,7 @@
 
 <img
   src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_overview.svg"
-  width="450"
+  width="500"
 />
 
 </td>

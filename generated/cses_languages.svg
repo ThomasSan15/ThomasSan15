@@ -1,15 +1,13 @@
-<svg width="420" height="86" viewBox="0 0 420 86"
-     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CSES Languages">
+<svg width="420" height="86" viewBox="0 0 420 86" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CSES Languages">
   <title>CSES Languages</title>
   <defs><clipPath id="rl"><rect width="420" height="86" rx="12"/></clipPath></defs>
   <rect width="420" height="86" rx="12" fill="#0d1117" clip-path="url(#rl)"/>
-  <rect width="3" height="86" rx="2" fill="#c9373c"/>
-  <text x="16" y="22" font-family="JetBrains Mono,monospace" font-size="11"
-        fill="#c9373c" font-weight="700" letter-spacing="2">LANGUAGES USED</text>
+  <rect width="3" height="86" fill="#c9373c"/>
+  <text x="16" y="22" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9373c" font-weight="700" letter-spacing="2">LANGUAGES USED</text>
   <line x1="16" y1="30" x2="404" y2="30" stroke="#21262d" stroke-width="1"/>
   
   <circle cx="16" cy="51" r="5" fill="#00599C"/>
   <text x="28" y="56" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">C++</text>
-  <rect x="110" y="46" width="340" height="10" rx="5" fill="#00599C" opacity="0.75"/>
-  <text x="460" y="56" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e" text-anchor="end">100%</text>
+  <rect x="110" y="46" width="280" height="10" rx="5" fill="#00599C" opacity="0.75"/>
+  <text x="404" y="56" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e" text-anchor="end">100%</text>
 </svg>

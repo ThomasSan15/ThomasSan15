@@ -112,4 +112,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=700&lines=%22We+are+what+we+repeatedly+do.+Excellence%2C+then%2C+is+not+an+act%2C+but+a+habit.%22+%E2%80%94+Aristotle)](https://git.io/typing-svg)
+<table>
+<tr>
+<td align="center" width="700">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=24&duration=4000&pause=999999&color=9A9A9A&center=true&vCenter=true&repeat=false&width=820&lines=%22We+are+what+we+repeatedly+do.+Excellence%2C+then%2C+is+not+an+act%2C+but+a+habit.%22" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=23&duration=4000&pause=999999&color=9A9A9A&center=true&vCenter=true&repeat=false&width=820&lines=~Aristotle" />
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>

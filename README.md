@@ -51,19 +51,7 @@
 
 ---
 
-###  Contact
-
-<p align="center">
-
-<a href="mailto:thomas.santiago.beltran15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-### ⚙️ Languages and Tools
+###  Languages and Tools
 
 <div align="center">
 
@@ -132,6 +120,15 @@
 </tr>
 
 </table>
+
+</div>
+
+---
+## Contact
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/thomas.santiago.beltran15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.santiago.beltran15@gmail.com)
 
 </div>
 

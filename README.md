@@ -12,7 +12,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Computer+science+student+from+Colombia)](https://git.io/typing-svg)
 

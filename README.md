@@ -108,12 +108,32 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=20&color=E6EDF3&center=false&vCenter=true&width=400&lines=⚡+Current+Focus" />
 </p>
+<div align="center">
 
+<table>
+<tr>
+<th>Area</th>
+<th>Details</th>
+</tr>
 
--  Competitive Programming
--  Backend Systems
--  Cybersecurity
--  Linux & Low-level programming
+<tr>
+<td> <b>Competitive Programming</b></td>
+<td>Codeforces, CSES, algorithm contests</td>
+</tr>
+
+<tr>
+<td> <b>Backend Systems</b></td>
+<td>System design, APIs, performance</td>
+</tr>
+
+<tr>
+<td> <b>Low-level Programming</b></td>
+<td>C, C++, Rust, Linux</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 <p align="center">

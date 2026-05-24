@@ -35,11 +35,31 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-C9373C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThomasBA)
 [![CSES](https://img.shields.io/badge/CSES-Online%20Judge-C9373C?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
 
-<img 
-  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" 
-  width="300"
-  style="margin-top: 18px;"
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_overview.svg"
+  width="450"
 />
+
+</td>
+
+<td>
+
+<img
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_categories.svg?v=2"
+  width="450"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 

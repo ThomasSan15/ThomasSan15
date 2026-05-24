@@ -49,7 +49,14 @@ HEADERS = {
 def fetch_user_stats(user_id: str) -> dict:
     """Fetch basic stats from the CSES user page."""
     url = f"https://cses.fi/user/{user_id}"
-    resp = requests.get(url, headers=HEADERS, timeout=15)
+    session = requests.Session()
+
+    session.cookies.set(
+        "PHPSESSID",
+    os.getenv("CSES_SESSION")
+    )
+
+    resp = session.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -116,7 +123,13 @@ def fetch_solved_problems(user_id: str) -> dict:
     solved = {cat: 0 for cat in CATEGORIES}
 
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
+        session = requests.Session()
+
+        session.cookies.set(
+            "PHPSESSID",
+            os.getenv("CSES_SESSION")
+        )
+        resp = session.get(url, headers=HEADERS, timeout=15)
         if resp.status_code != 200:
             print(f"  [warn] Could not fetch per-category data (status {resp.status_code}). Using totals only.")
             return solved

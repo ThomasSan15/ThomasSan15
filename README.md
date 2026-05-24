@@ -35,11 +35,16 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-C9373C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThomasBA)
 [![CSES](https://img.shields.io/badge/CSES-Online%20Judge-C9373C?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
 
-<img src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" width="300"/>
+<img 
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_solved.svg" 
+  width="300"
+  style="margin-top: 18px;"
+/>
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=500&height=22&lines=Algorithms+%26+Data+Structures+%7C+Time+complexity+%7C+Contest+prep)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=900&height=22&lines=Algorithms+%26+Data+Structures+%7C+Time+complexity+%7C+Contest+preparation+%7C+Competitive+Mindset)](https://git.io/typing-svg)
 
 ---
 

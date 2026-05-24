@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=999999&color=777777&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi%2C+I'm+Thomas+Santiago!" />
 </p>
 
-<p align="center">
-  <img width="75%" src="https://github.com/user-attachments/assets/2f0f6cb5-6d5f-4c0b-bc87-9f9e8f7d6d35" />
-</p>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=C9373C&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Developer;Cybersecurity+Enthusiast" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=C9373C&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Developer;Cybersecurity+Enthusiast" />
+  </a>
 </p>
 
 ---

@@ -52,7 +52,7 @@
 
 <img
   src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/cses_categories.svg?v=2"
-  width="450"
+  width="470"
 />
 
 </td>

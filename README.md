@@ -97,10 +97,6 @@
 
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=ThomasSan15&theme=tokyonight&bg_color=0d1117&title_color=c9373c&text_color=ffffff"
-/>
-
-<img 
   src="https://komarev.com/ghpvc/?username=ThomasSan15&color=c9373c&style=for-the-badge"
 />
 
@@ -108,7 +104,7 @@
 
 <img 
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&bg_color=0d1117&title_color=c9373c&text_color=ffffff&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight"
 />
 
 </div>

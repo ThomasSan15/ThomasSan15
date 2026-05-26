@@ -35,7 +35,7 @@
   <text x="380" y="80" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#4f8cff">41</text>
   <text x="410" y="80" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">100%</text>
+        font-size="9" fill="#484f58" text-anchor="end">40%</text>
   <text x="16" y="110" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Implementation</text>
   <rect x="152" y="101" width="220" height="10" rx="5" fill="#161b22"/>
@@ -48,7 +48,7 @@
   <text x="380" y="110" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">39</text>
   <text x="410" y="110" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">95%</text>
+        font-size="9" fill="#484f58" text-anchor="end">38%</text>
   <text x="16" y="140" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Greedy</text>
   <rect x="152" y="131" width="220" height="10" rx="5" fill="#161b22"/>
@@ -61,7 +61,7 @@
   <text x="380" y="140" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">35</text>
   <text x="410" y="140" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">85%</text>
+        font-size="9" fill="#484f58" text-anchor="end">34%</text>
   <text x="16" y="170" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Strings</text>
   <rect x="152" y="161" width="220" height="10" rx="5" fill="#161b22"/>
@@ -74,7 +74,7 @@
   <text x="380" y="170" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">19</text>
   <text x="410" y="170" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">46%</text>
+        font-size="9" fill="#484f58" text-anchor="end">19%</text>
   <text x="16" y="200" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Brute Force</text>
   <rect x="152" y="191" width="220" height="10" rx="5" fill="#161b22"/>
@@ -87,7 +87,7 @@
   <text x="380" y="200" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">17</text>
   <text x="410" y="200" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">41%</text>
+        font-size="9" fill="#484f58" text-anchor="end">17%</text>
   <text x="16" y="230" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Constructive</text>
   <rect x="152" y="221" width="220" height="10" rx="5" fill="#161b22"/>
@@ -100,7 +100,7 @@
   <text x="380" y="230" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">11</text>
   <text x="410" y="230" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">27%</text>
+        font-size="9" fill="#484f58" text-anchor="end">11%</text>
   <text x="16" y="260" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Dynamic Programming</text>
   <rect x="152" y="251" width="220" height="10" rx="5" fill="#161b22"/>
@@ -113,7 +113,7 @@
   <text x="380" y="260" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">1</text>
   <text x="410" y="260" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">2%</text>
+        font-size="9" fill="#484f58" text-anchor="end">1%</text>
   <text x="16" y="290" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Binary Search</text>
   <rect x="152" y="281" width="220" height="10" rx="5" fill="#161b22"/>
@@ -126,7 +126,7 @@
   <text x="380" y="290" font-family="JetBrains Mono,monospace"
         font-size="10" fill="#8b949e">1</text>
   <text x="410" y="290" font-family="JetBrains Mono,monospace"
-        font-size="9" fill="#484f58" text-anchor="end">2%</text>
+        font-size="9" fill="#484f58" text-anchor="end">1%</text>
   <text x="16" y="320" font-family="JetBrains Mono,monospace" font-size="11"
         fill="#c9d1d9">Graphs</text>
   <rect x="152" y="311" width="220" height="10" rx="5" fill="#161b22"/>

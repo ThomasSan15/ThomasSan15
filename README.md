@@ -96,7 +96,10 @@
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook&v=2"/>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasSan15&theme=github_dark"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasSan15&bg_color=0d1117&color=ffffff&line=c9373c&point=ff8787&area=true&hide_border=true&custom_title=Activity%20Overview"
+  width="95%"
+/>
 
 </div>
 

@@ -11,6 +11,11 @@
 </p>
 
 ---
+<p align="center">
+<img 
+  src="https://komarev.com/ghpvc/?username=ThomasSan15&color=c9373c&style=for-the-badge"
+/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
 
@@ -90,22 +95,8 @@
 
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook&v=2"/>
 
-<img
-  height="180"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasSan15&bg_color=0d1117&color=ffffff&line=c9373c&point=ff6b6b&area=true&hide_border=true"
-/>
 
-
-<img 
-  src="https://komarev.com/ghpvc/?username=ThomasSan15&color=c9373c&style=for-the-badge"
-/>
-
-<img src="https://github.com/ThomasSan15/ThomasSan15/blob/main/github-metrics.svg"/>
-
-<img 
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSan15&layout=compact&theme=tokyonight"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasSan15&theme=github_dark"/>
 
 </div>
 

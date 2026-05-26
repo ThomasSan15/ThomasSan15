@@ -1,0 +1,118 @@
+<svg width="420" height="200" viewBox="0 0 420 200"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Codeforces Stats – ThomasBA">
+  <title>Codeforces Stats – ThomasBA</title>
+  <defs>
+    <!-- Background -->
+    <linearGradient id="cf-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <!-- Ring track glow -->
+    <filter id="cf-glow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Subtle inner shadow -->
+    <filter id="cf-inner">
+      <feGaussianBlur stdDeviation="1" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="cf-clip"><rect width="420" height="200" rx="12"/></clipPath>
+  </defs>
+
+  <!-- Card -->
+  <rect width="420" height="200" rx="12" fill="url(#cf-bg)" clip-path="url(#cf-clip)"/>
+  <!-- Top accent -->
+  <rect width="420" height="2" fill="#808080" opacity="0.8"/>
+  <!-- Left border -->
+  <rect width="3" height="200" fill="#808080"/>
+
+  <!-- Header -->
+  <text x="20" y="22" font-family="JetBrains Mono,monospace" font-size="10"
+        fill="#808080" font-weight="700" letter-spacing="2">CODEFORCES</text>
+  <text x="20" y="40" font-family="JetBrains Mono,monospace" font-size="17"
+        fill="#e6edf3" font-weight="700">ThomasBA</text>
+  <text x="406" y="22" font-family="JetBrains Mono,monospace" font-size="8"
+        fill="#484f58" text-anchor="end">2026-05-26 22:14 UTC</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="50" x2="406" y2="50" stroke="#1c2128" stroke-width="1"/>
+
+  <!-- ── Rating ring (left) ── -->
+  <!-- Track -->
+  <circle cx="64" cy="100" r="44" fill="none"
+          stroke="#1c2128" stroke-width="7"/>
+  <!-- Arc bg glow -->
+  <circle cx="64" cy="100" r="44" fill="none"
+          stroke="#808080" stroke-width="7" opacity="0.08"/>
+  <!-- Animated filled arc -->
+  <circle cx="64" cy="100" r="44" fill="none"
+          stroke="#808080" stroke-width="7"
+          stroke-dasharray="0.00 276.46"
+          stroke-linecap="round"
+          transform="rotate(-90 64 100)"
+          filter="url(#cf-glow)">
+    <animate attributeName="stroke-dasharray"
+             from="0 276.46"
+             to="0.00 276.46"
+             dur="1.4s" fill="freeze" calcMode="spline"
+             keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  </circle>
+  <!-- Rating number inside ring -->
+  <text x="64" y="92" font-family="JetBrains Mono,monospace"
+        font-size="18" fill="#e6edf3" font-weight="700" text-anchor="middle">0</text>
+  <text x="64" y="108" font-family="JetBrains Mono,monospace"
+        font-size="9" fill="#808080" text-anchor="middle" letter-spacing="1">RATING</text>
+  <text x="64" y="122" font-family="JetBrains Mono,monospace"
+        font-size="8" fill="#484f58" text-anchor="middle">max 0</text>
+
+  <!-- ── Stats grid (right of ring) ── -->
+  <!-- Row 1 -->
+  <text x="138" y="72" font-family="JetBrains Mono,monospace" font-size="9"
+        fill="#8b949e" letter-spacing="1">RANK</text>
+  <text x="260" y="72" font-family="JetBrains Mono,monospace" font-size="9"
+        fill="#8b949e" letter-spacing="1">MAX RANK</text>
+  <text x="138" y="88" font-family="JetBrains Mono,monospace" font-size="13"
+        fill="#808080" font-weight="700">Newbie</text>
+  <text x="260" y="88" font-family="JetBrains Mono,monospace" font-size="13"
+        fill="#808080" font-weight="700">Newbie</text>
+
+  <!-- Row 2 -->
+  <text x="138" y="112" font-family="JetBrains Mono,monospace" font-size="9"
+        fill="#8b949e" letter-spacing="1">SOLVED</text>
+  <text x="260" y="112" font-family="JetBrains Mono,monospace" font-size="9"
+        fill="#8b949e" letter-spacing="1">CONTESTS</text>
+  <text x="138" y="128" font-family="JetBrains Mono,monospace" font-size="20"
+        fill="#e6edf3" font-weight="700">102</text>
+  <text x="260" y="128" font-family="JetBrains Mono,monospace" font-size="20"
+        fill="#e6edf3" font-weight="700">0</text>
+
+  <!-- Row 3 -->
+  <text x="138" y="152" font-family="JetBrains Mono,monospace" font-size="9"
+        fill="#8b949e" letter-spacing="1">STREAK</text>
+  <text x="260" y="152" font-family="JetBrains Mono,monospace" font-size="9"
+        fill="#8b949e" letter-spacing="1">LAST ACTIVE</text>
+  <text x="138" y="168" font-family="JetBrains Mono,monospace" font-size="17"
+        fill="#e6edf3" font-weight="700">5<tspan font-size="10" fill="#8b949e"> days</tspan></text>
+  <text x="260" y="168" font-family="JetBrains Mono,monospace" font-size="13"
+        fill="#c9d1d9">2026-05-26</text>
+
+  <!-- Bottom progress bar: solved / 1000 benchmark -->
+  <line x1="20" y1="180" x2="406" y2="180" stroke="#1c2128" stroke-width="1"/>
+  <text x="20"  y="194" font-family="JetBrains Mono,monospace" font-size="8"
+        fill="#484f58">solved progress</text>
+  <rect x="110" y="187" width="296" height="5" rx="2" fill="#1c2128"/>
+  <rect x="110" y="187" width="60" height="5" rx="2"
+        fill="#808080" opacity="0.7">
+    <animate attributeName="width" from="0"
+             to="60"
+             dur="1.2s" fill="freeze" calcMode="spline"
+             keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="406" y="194" font-family="JetBrains Mono,monospace" font-size="8"
+        fill="#484f58" text-anchor="end">102/500</text>
+
+  <!-- Border -->
+  <rect width="420" height="200" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
+</svg>

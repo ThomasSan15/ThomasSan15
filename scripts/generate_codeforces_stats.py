@@ -18,9 +18,9 @@ import argparse
 import requests
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
-import pytz
+from zoneinfo import ZoneInfo
 
-LOCAL_TZ = pytz.timezone("America/Bogota")
+LOCAL_TZ = ZoneInfo("America/Bogota")
 
 # ── CF API ───────────────────────────────────────────────────────────────────
 

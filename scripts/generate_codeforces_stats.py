@@ -16,7 +16,7 @@ import json
 import time
 import argparse
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
 # ── CF API ───────────────────────────────────────────────────────────────────
@@ -93,16 +93,48 @@ def fetch_user_rating(handle: str) -> list:
 
 
 def fetch_user_submissions(handle: str) -> list:
-    """Returns all submissions for the user."""
-    try:
-        return cf_get("user.status", {"handle": handle, "count": 10000})
-    except Exception:
-        return []
+    """
+    Fetch ALL submissions using pagination.
+    """
+
+    all_submissions = []
+    start = 1
+    batch_size = 10000
+
+    while True:
+        batch = cf_get(
+            "user.status",
+            {
+                "handle": handle,
+                "from": start,
+                "count": batch_size,
+            }
+        )
+
+        if not batch:
+            break
+
+        all_submissions.extend(batch)
+
+        print(f"      fetched {len(all_submissions)} submissions...")
+
+        if len(batch) < batch_size:
+            break
+
+        start += batch_size
+
+        time.sleep(0.2)
+
+    return all_submissions
 
 
 def compute_streak(submissions: list) -> int:
-    """Compute current streak: consecutive days with at least one AC submission."""
+    """
+    Current streak of consecutive days with at least one accepted submission.
+    """
+
     ac_days = set()
+
     for sub in submissions:
         if sub.get("verdict") == "OK":
             ts = sub.get("creationTimeSeconds", 0)
@@ -113,12 +145,16 @@ def compute_streak(submissions: list) -> int:
         return 0
 
     today = datetime.now(timezone.utc).date()
+
+    # If today has no AC, allow streak to start yesterday
+    current = today if today in ac_days else today - timedelta(days=1)
+
     streak = 0
-    current = today
+
     while current in ac_days:
         streak += 1
-        current = current.replace(day=current.day - 1) if current.day > 1 else \
-                  current.replace(month=current.month - 1, day=28)  # simplified
+        current -= timedelta(days=1)
+
     return streak
 
 

@@ -18,6 +18,9 @@ import argparse
 import requests
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
+import pytz
+
+LOCAL_TZ = pytz.timezone("America/Bogota")
 
 # ── CF API ───────────────────────────────────────────────────────────────────
 
@@ -129,24 +132,25 @@ def fetch_user_submissions(handle: str) -> list:
 
 
 def compute_streak(submissions: list) -> int:
-    """
-    Current streak of consecutive days with at least one accepted submission.
-    """
-
     ac_days = set()
 
     for sub in submissions:
         if sub.get("verdict") == "OK":
             ts = sub.get("creationTimeSeconds", 0)
-            day = datetime.fromtimestamp(ts, tz=timezone.utc).date()
+
+            day = (
+                datetime.fromtimestamp(ts, tz=timezone.utc)
+                .astimezone(LOCAL_TZ)
+                .date()
+            )
+
             ac_days.add(day)
 
     if not ac_days:
         return 0
 
-    today = datetime.now(timezone.utc).date()
+    today = datetime.now(LOCAL_TZ).date()
 
-    # If today has no AC, allow streak to start yesterday
     current = today if today in ac_days else today - timedelta(days=1)
 
     streak = 0
@@ -159,44 +163,33 @@ def compute_streak(submissions: list) -> int:
 
 
 def compute_unique_solved(submissions: list) -> dict:
-    """
-    Single source of truth: build the deduplicated set of solved problems.
+    solved_problems = {}
 
-    Returns a dict:
-      {
-        "total":  int,                              # unique solved count
-        "tags":   { tag_name: count, ... },         # per-tag unique solved count
-        "solved_keys": set of (contestId, index),   # for any further use
-      }
-
-    Rules:
-      - Only verdict == "OK" submissions count.
-      - A (contestId, index) pair is counted AT MOST ONCE globally.
-        If the same problem appears multiple times, only the FIRST accepted
-        submission is used (order from the API, newest-first, so we iterate
-        reversed to keep the earliest).
-      - Tag frequencies are derived from those unique problems only.
-      - Percentages must be computed as  count / total_unique_solved * 100.
-    """
-    # API returns submissions newest-first; reverse so earliest AC wins the slot.
-    solved_problems: dict[tuple, set] = {}
     for sub in reversed(submissions):
         if sub.get("verdict") != "OK":
             continue
+
         prob = sub.get("problem", {})
-        key  = (prob.get("contestId", 0), prob.get("index", ""))
-        # Only register each problem once (first/earliest accepted submission)
+
+        key = (
+            prob.get("contestId"),
+            prob.get("problemsetName"),
+            prob.get("index"),
+            prob.get("name"),
+        )
+
         if key not in solved_problems:
             solved_problems[key] = set(prob.get("tags", []))
 
-    tag_counts: dict[str, int] = defaultdict(int)
+    tag_counts = defaultdict(int)
+
     for tags in solved_problems.values():
         for tag in tags:
             tag_counts[tag] += 1
 
     return {
-        "total":       len(solved_problems),
-        "tags":        dict(tag_counts),
+        "total": len(solved_problems),
+        "tags": dict(tag_counts),
         "solved_keys": set(solved_problems.keys()),
     }
 

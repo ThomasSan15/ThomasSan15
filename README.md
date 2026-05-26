@@ -66,6 +66,32 @@
 
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/codeforces_overview.svg"
+  width="500"
+/>
+
+</td>
+
+<td>
+
+<img
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/codeforces_tags.svg?v=2"
+  width="470"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 </div>
 
 

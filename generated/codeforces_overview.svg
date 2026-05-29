@@ -34,7 +34,7 @@
   <text x="20" y="40" font-family="JetBrains Mono,monospace" font-size="17"
         fill="#e6edf3" font-weight="700">ThomasBA</text>
   <text x="406" y="22" font-family="JetBrains Mono,monospace" font-size="8"
-        fill="#484f58" text-anchor="end">2026-05-28 10:57 UTC</text>
+        fill="#484f58" text-anchor="end">2026-05-29 10:49 UTC</text>
 
   <!-- Divider -->
   <line x1="20" y1="50" x2="406" y2="50" stroke="#1c2128" stroke-width="1"/>
@@ -84,7 +84,7 @@
   <text x="260" y="112" font-family="JetBrains Mono,monospace" font-size="9"
         fill="#8b949e" letter-spacing="1">CONTESTS</text>
   <text x="138" y="128" font-family="JetBrains Mono,monospace" font-size="20"
-        fill="#e6edf3" font-weight="700">104</text>
+        fill="#e6edf3" font-weight="700">109</text>
   <text x="260" y="128" font-family="JetBrains Mono,monospace" font-size="20"
         fill="#e6edf3" font-weight="700">0</text>
 
@@ -94,24 +94,24 @@
   <text x="260" y="152" font-family="JetBrains Mono,monospace" font-size="9"
         fill="#8b949e" letter-spacing="1">LAST ACTIVE</text>
   <text x="138" y="168" font-family="JetBrains Mono,monospace" font-size="17"
-        fill="#e6edf3" font-weight="700">27<tspan font-size="10" fill="#8b949e"> days</tspan></text>
+        fill="#e6edf3" font-weight="700">28<tspan font-size="10" fill="#8b949e"> days</tspan></text>
   <text x="260" y="168" font-family="JetBrains Mono,monospace" font-size="13"
-        fill="#c9d1d9">2026-05-28</text>
+        fill="#c9d1d9">2026-05-29</text>
 
   <!-- Bottom progress bar: solved / 1000 benchmark -->
   <line x1="20" y1="180" x2="406" y2="180" stroke="#1c2128" stroke-width="1"/>
   <text x="20"  y="194" font-family="JetBrains Mono,monospace" font-size="8"
         fill="#484f58">solved progress</text>
   <rect x="110" y="187" width="296" height="5" rx="2" fill="#1c2128"/>
-  <rect x="110" y="187" width="61" height="5" rx="2"
+  <rect x="110" y="187" width="64" height="5" rx="2"
         fill="#808080" opacity="0.7">
     <animate attributeName="width" from="0"
-             to="61"
+             to="64"
              dur="1.2s" fill="freeze" calcMode="spline"
              keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
   <text x="406" y="194" font-family="JetBrains Mono,monospace" font-size="8"
-        fill="#484f58" text-anchor="end">104/500</text>
+        fill="#484f58" text-anchor="end">109/500</text>
 
   <!-- Border -->
   <rect width="420" height="200" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>

@@ -23,7 +23,7 @@
   <text x="20" y="40" font-family="JetBrains Mono,monospace" font-size="17"
         fill="#e6edf3" font-weight="700">ThomasBA</text>
   <text x="406" y="22" font-family="JetBrains Mono,monospace" font-size="8"
-        fill="#484f58" text-anchor="end">2026-06-07 23:01 UTC</text>
+        fill="#484f58" text-anchor="end">2026-06-08 11:59 UTC</text>
   <line x1="20" y1="50" x2="406" y2="50" stroke="#1c2128" stroke-width="1"/>
 
   <!-- Rating ring -->

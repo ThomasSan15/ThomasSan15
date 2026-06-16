@@ -158,8 +158,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=160&lines=Contact)](https://git.io/typing-svg)
 
 <div align="center">
-
+  
 [![Gmail](https://img.shields.io/badge/thomas.santiago.beltran15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.santiago.beltran15@gmail.com)
+
+[![UTP Email](https://img.shields.io/badge/thomas.beltran%40utp.edu.co-0066CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.beltran@utp.edu.co)
 
 </div>
 

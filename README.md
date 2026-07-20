@@ -100,7 +100,7 @@
 <td>
 
 <img
-  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/leetcode_difficulty.svg"
+  src="generated/leetcode_difficulty.svg"
   width="500"
   alt="LeetCode Difficulty"
 />

@@ -6,7 +6,7 @@ Generates:
   generated/leetcode_difficulty.svg
   generated/leetcode_topics.svg
 Usage:
-    python scripts/generate_leetcode_stats.py --user YOUR_USERNAME
+    python scripts/generate_leetcode_stats.py --user ThomasSan15
 """
 from __future__ import annotations
 import math, os, sys, time, argparse, requests

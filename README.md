@@ -110,7 +110,7 @@
 <td>
 
 <img
-  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/leetcode_topics.svg"
+  src="generated/leetcode_topics.svg"
   width="470"
   alt="LeetCode Topics"
 />

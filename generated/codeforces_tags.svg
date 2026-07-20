@@ -17,7 +17,7 @@
   <text x="16" y="36" font-family="JetBrains Mono,monospace" font-size="13"
         fill="#e6edf3" font-weight="700">ThomasBA</text>
   <text x="406" y="20" font-family="JetBrains Mono,monospace" font-size="8"
-        fill="#484f58" text-anchor="end">2026-07-19</text>
+        fill="#484f58" text-anchor="end">2026-07-20</text>
   <line x1="16" y1="60" x2="406" y2="60"
         stroke="#1c2128" stroke-width="1"/>
   
@@ -27,36 +27,36 @@
     <animate attributeName="width" from="0" to="220" dur="1.00s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="380" y="80" font-family="JetBrains Mono,monospace" font-size="10" fill="#4f8cff">98</text>
+  <text x="380" y="80" font-family="JetBrains Mono,monospace" font-size="10" fill="#4f8cff">99</text>
   <text x="412" y="80" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">43%</text>
   <text x="16" y="110" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Math</text>
   <rect x="152" y="101" width="220" height="10" rx="5" fill="#161b22"/>
-  <rect x="152" y="101" width="184" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
-    <animate attributeName="width" from="0" to="184" dur="1.07s"
+  <rect x="152" y="101" width="182" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
+    <animate attributeName="width" from="0" to="182" dur="1.07s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
   <text x="380" y="110" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">82</text>
-  <text x="412" y="110" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">36%</text>
+  <text x="412" y="110" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">35%</text>
   <text x="16" y="140" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Greedy</text>
   <rect x="152" y="131" width="220" height="10" rx="5" fill="#161b22"/>
-  <rect x="152" y="131" width="172" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
-    <animate attributeName="width" from="0" to="172" dur="1.14s"
+  <rect x="152" y="131" width="171" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
+    <animate attributeName="width" from="0" to="171" dur="1.14s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
   <text x="380" y="140" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">77</text>
   <text x="412" y="140" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">33%</text>
   <text x="16" y="170" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Brute Force</text>
   <rect x="152" y="161" width="220" height="10" rx="5" fill="#161b22"/>
-  <rect x="152" y="161" width="114" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
-    <animate attributeName="width" from="0" to="114" dur="1.21s"
+  <rect x="152" y="161" width="113" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
+    <animate attributeName="width" from="0" to="113" dur="1.21s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
   <text x="380" y="170" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">51</text>
   <text x="412" y="170" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">22%</text>
   <text x="16" y="200" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Strings</text>
   <rect x="152" y="191" width="220" height="10" rx="5" fill="#161b22"/>
-  <rect x="152" y="191" width="83" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
-    <animate attributeName="width" from="0" to="83" dur="1.28s"
+  <rect x="152" y="191" width="82" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
+    <animate attributeName="width" from="0" to="82" dur="1.28s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
   <text x="380" y="200" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">37</text>
@@ -71,20 +71,20 @@
   <text x="412" y="230" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">12%</text>
   <text x="16" y="260" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Dynamic Programming</text>
   <rect x="152" y="251" width="220" height="10" rx="5" fill="#161b22"/>
-  <rect x="152" y="251" width="29" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
-    <animate attributeName="width" from="0" to="29" dur="1.42s"
+  <rect x="152" y="251" width="31" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
+    <animate attributeName="width" from="0" to="31" dur="1.42s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="380" y="260" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">13</text>
+  <text x="380" y="260" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">14</text>
   <text x="412" y="260" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">6%</text>
   <text x="16" y="290" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Binary Search</text>
   <rect x="152" y="281" width="220" height="10" rx="5" fill="#161b22"/>
-  <rect x="152" y="281" width="22" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
-    <animate attributeName="width" from="0" to="22" dur="1.49s"
+  <rect x="152" y="281" width="24" height="10" rx="5" fill="#2d4a7a" opacity="0.9">
+    <animate attributeName="width" from="0" to="24" dur="1.49s"
              fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="380" y="290" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">10</text>
-  <text x="412" y="290" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">4%</text>
+  <text x="380" y="290" font-family="JetBrains Mono,monospace" font-size="10" fill="#8b949e">11</text>
+  <text x="412" y="290" font-family="JetBrains Mono,monospace" font-size="9" fill="#484f58" text-anchor="end">5%</text>
   <text x="16" y="320" font-family="JetBrains Mono,monospace" font-size="11" fill="#c9d1d9">Data Structures</text>
   <rect x="152" y="311" width="220" height="10" rx="5" fill="#161b22"/>
   <rect x="152" y="311" width="15" height="10" rx="5" fill="#2d4a7a" opacity="0.9">

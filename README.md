@@ -37,8 +37,9 @@
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-C9373C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThomasBA)
-[![CSES](https://img.shields.io/badge/CSES-Online%20Judge-C9373C?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThomasBA)
+[![CSES](https://img.shields.io/badge/CSES-ThomasBA-0E9F6E?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Thomas__Santiago-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Thomas_Santiago/)
 
 <div align="center">
 
@@ -87,6 +88,35 @@
 />
 
 </td>
+</tr>
+</table>
+
+<div align="center">
+
+
+<table>
+<tr>
+
+<td>
+
+<img
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/leetcode_difficulty.svg"
+  width="500"
+  alt="LeetCode Difficulty"
+/>
+
+</td>
+
+<td>
+
+<img
+  src="https://raw.githubusercontent.com/ThomasSan15/ThomasSan15/main/generated/leetcode_topics.svg"
+  width="470"
+  alt="LeetCode Topics"
+/>
+
+</td>
+
 </tr>
 </table>
 

@@ -37,9 +37,9 @@
 
 <div align="center">
   
-[![CSES](https://img.shields.io/badge/CSES-ThomasBA-C9373C?style=for-the-badge&logo=bookstack&logoColor=red)](https://cses.fi/user/416103)
-[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-4F8CFF?style=for-the-badge&logo=codeforces&logoColor=dark)](https://codeforces.com/profile/ThomasBA)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Thomas__Santiago-FFA116?style=for-the-badge&logo=leetcode&logoColor=dark)](https://leetcode.com/u/Thomas_Santiago/)
+[![CSES](https://img.shields.io/badge/CSES-ThomasBA-C9373C?style=for-the-badge&logo=bookstack&labelColor=1A1F27&logoColor=red)](https://cses.fi/user/416103)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-4F8CFF?style=for-the-badge&labelColor=1A1F27&logo=codeforces&logoColor=dark)](https://codeforces.com/profile/ThomasBA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Thomas__Santiago-FFA116?style=for-the-badge&labelColor=1A1F27&logo=leetcode&logoColor=dark)](https://leetcode.com/u/Thomas_Santiago/)
 
 
 

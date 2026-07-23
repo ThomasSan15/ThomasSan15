@@ -36,10 +36,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=450&lines=Competitive+Programming++++🏆)](https://git.io/typing-svg)
 
 <div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThomasBA)
-[![CSES](https://img.shields.io/badge/CSES-ThomasBA-0E9F6E?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Thomas__Santiago-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Thomas_Santiago/)
+  
+[![CSES](https://img.shields.io/badge/CSES-ThomasBA-C9373C?style=for-the-badge&logo=bookstack&logoColor=red)](https://cses.fi/user/416103)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ThomasBA-4F8CFF?style=for-the-badge&logo=codeforces&logoColor=dark)](https://codeforces.com/profile/ThomasBA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Thomas__Santiago-FFA116?style=for-the-badge&logo=leetcode&logoColor=dark)](https://leetcode.com/u/Thomas_Santiago/)
 
 
 

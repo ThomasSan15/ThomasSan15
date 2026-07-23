@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=999999&color=777777&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi%2C+I'm+Thomas+Santiago!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi%2C+I'm+Thomas+Santiago!" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=About+Me)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=777777&vCenter=true&repeat=false&width=460&height=22&lines=Computer+science+student+from+Colombia)](https://git.io/typing-svg)
 
@@ -33,7 +33,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=450&lines=Competitive+Programming++++🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=450&lines=Competitive+Programming++++🏆)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -125,11 +125,11 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=900&height=22&lines=Algorithms+%26+Data+Structures+%7C+Time+complexity+%7C+Contest+preparation+%7C+Competitive+Mindset)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=750&size=15&duration=3000&pause=1000&color=777777&vCenter=true&repeat=false&width=900&height=22&lines=Algorithms+%26+Data+Structures+%7C+Time+complexity+%7C+Contest+preparation+%7C+Competitive+Mindset)](https://git.io/typing-svg)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=260&lines=Languages+%26+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=260&lines=Languages+%26+Tools)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -143,7 +143,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=Github+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=Github+Stats)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -161,7 +161,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=Github+Streak)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=Github+Streak)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -171,7 +171,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=%E2%9A%A1+Current+Focus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=%E2%9A%A1+Current+Focus)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -186,7 +186,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=160&lines=Contact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=160&lines=Contact)](https://git.io/typing-svg)
 
 <div align="center">
   

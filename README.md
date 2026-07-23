@@ -41,7 +41,7 @@
 [![CSES](https://img.shields.io/badge/CSES-ThomasBA-0E9F6E?style=for-the-badge&logo=bookstack&logoColor=white)](https://cses.fi/user/416103)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Thomas__Santiago-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Thomas_Santiago/)
 
-<div align="center">
+
 
 <table>
 <tr>
@@ -174,6 +174,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=C9373C&vCenter=true&repeat=false&width=200&lines=%E2%9A%A1+Current+Focus)](https://git.io/typing-svg)
 
 <div align="center">
+
 
 | Area | Details |
 |---|---|
